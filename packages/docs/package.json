@@ -50,7 +50,7 @@
     "vuex": "^3.1.0",
     "vuex-router-sync": "^5.0.0",
     "webfontloader": "^1.6.28",
-    "snyk": "^1.189.0"
+    "snyk": "^1.192.4"
   },
   "devDependencies": {
     "@mdi/font": "^3.2.89",
